@@ -1,14 +1,17 @@
-title: Your awesome title
+title: Natan Eliezer
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Natan Eliezer
+  email: natnanDF@proton.me
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Hi! Welcome to my website. Currently I am a 4th year Computer and Digital Forensics major at Champlain college. 
+  I got into digital forensics because I've always loved computers and learning about how they work.
+  That interest in computers has devoleped into a passion for digital forensics and cybersecurity.
+  I spend my free time learning about different topics on my own and participating in several clubs on campus. 
+  Some of these include the Champlain College Digital Forensics Association where I am the Chief Research Officer,
+  Rock Climbing Club, Computer Networking and Cyber Security Club, and some of the intermural sports on campus.n.
 
 # Build settings
 
