@@ -6,9 +6,9 @@ permalink: /projects/
 Here you can find information about any projects that I have worked on.
 
 <h1>Malware Analysis Projects</h1>
-  Static and Dynamic Analysis  
-  Reverse Engineering and Debugging  
-  IoC Compilation and YARA Rules  
+Static and Dynamic Analysis  
+Reverse Engineering and Debugging  
+IoC Compilation and YARA Rules  
 
 <h1>Digital Forensics Association Presentation</h1>
 
