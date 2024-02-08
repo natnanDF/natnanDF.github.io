@@ -3,16 +3,18 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+Here you can find information about any projects that I have worked on.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1>Malware Analysis Projects</h1>
+  Static and Dynamic Analysis  
+  Reverse Engineering and Debugging  
+  IoC Compilation and YARA Rules  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<h1>Digital Forensics Association Presentation</h1>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Eliezer, N., (2024) Digital Forensics Association, Cloud Forensics and Incident Response  
+Eliezer, N., (2023) Digital Forensics Association, Browser Forensics  
+Eliezer, N., (2023) Digital Forensics Association, Network Forensics and Network TAP  
 
-
-[jekyll-organization]: https://github.com/jekyll
+<h1>Hexordia</h1>
+Hyde, J.L., Cash, A., Eliezer, N., Nicholls, J., Farrell, D.,  Daniels, A., (2024) Magnet Virtual Summit 2024 Capture The Flag 
