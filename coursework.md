@@ -1,3 +1,11 @@
+---
+layout: page
+title: Coursework
+permalink: /coursework/
+---
+Here you can find all of the courses I have taken in both my Educational and Professional Career.
+
+
 <h2> Champlain College</h2>  
 FOR-480 Digital Forensics Practicum, 2024<br>
 FOR-450 Advanced Malware Analysis, 2023<br>
