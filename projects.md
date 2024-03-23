@@ -11,10 +11,11 @@ Reverse Engineering and Debugging
 IoC Compilation and YARA Rules  
 
 <h2>Digital Forensics Association Presentations</h2>
-
-Eliezer, N., (2024) Digital Forensics Association,<a href="URL">Link Text</a> Cloud Forensics and Incident Response  
-Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Link Text</a> Browser Forensics  
-Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Link Text</a> Network Forensics and Network TAP  
+<br>
+As Chief Research Officer at the Digital Forensics Association at Champlain College, I have compiled several high level presentations about different topics in Digital Forensics to educate association members.
+Eliezer, N., (2024) Digital Forensics Association,<a href="https://natnandf.github.io/projects/projects/Cloud-Forensics-IR/">Cloud Forensics and Incident Response</a>  
+Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Browser Forensics</a>  
+Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Network Forensics and Network TAP</a>  
 
 <h2>Hexordia</h2>
-Hyde, J.L., Cash, A., Eliezer, N., Nicholls, J., Farrell, D.,  Daniels, A., (2024) <a href="https://www.magnetforensics.com/blog/magnet-virtual-summit-2024-capture-the-flag/">LinkTextMagnet Virtual Summit 2024 Capture The Flag</a> 
+Hyde, J.L., Cash, A., Eliezer, N., Nicholls, J., Farrell, D.,  Daniels, A., (2024) <a href="https://www.magnetforensics.com/blog/magnet-virtual-summit-2024-capture-the-flag/">Magnet Virtual Summit 2024 Capture The Flag</a> 
