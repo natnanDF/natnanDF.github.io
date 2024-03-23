@@ -46,7 +46,6 @@ header_pages:
   - career.md
   - projects.md
   - coursework.md
-  - career.md
 
 # Set to `true` to show excerpts on the homepage.
 # show_excerpts: false
