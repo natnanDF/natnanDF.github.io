@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Here you can find information about any projects that I have worked on.
+Here you can find information about any projects that I have worked on.  
 
 <h2>Malware Analysis Projects</h2>
 Static and Dynamic Analysis  
