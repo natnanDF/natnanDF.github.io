@@ -13,7 +13,7 @@ IoC Compilation and YARA Rules
 <h2>Digital Forensics Association Presentations</h2>
 <br>
 As Chief Research Officer at the Digital Forensics Association at Champlain College, I have compiled several high level presentations about different topics in Digital Forensics to educate association members.
-Eliezer, N., (2024) Digital Forensics Association,<a href="https://natnandf.github.io/projects/projects/Cloud-Forensics-IR/">Cloud Forensics and Incident Response</a>  
+Eliezer, N., (2024) Digital Forensics Association,<a href="https://natnandf.github.io/projects/Cloud-Forensics-IR/">Cloud Forensics and Incident Response</a>  
 Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Browser Forensics</a>  
 Eliezer, N., (2023) Digital Forensics Association,<a href="URL">Network Forensics and Network TAP</a>  
 
