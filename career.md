@@ -6,7 +6,8 @@ permalink: /career/
 
 Here you can find my professional work experience.
 <h2>Current Positions</h2>
-<h3>CyberRange CTSI Resarcher - Leahy Center for Digital Forensics and Cyber Security - September 2023 - Present</h3>
+<h3>CyberRange CTSI Resarcher - Leahy Center for Digital Forensics and Cyber Security</h3>
+<h4>September 2023 - Present</h4>
 <u1>
 <li>Researched prevalent cloud environment attacks to replicate potential threats effectively.</li>
 <li>Analyzed cloud environments to identify use-cases and user demographics for targeted investigations.</li>
@@ -15,7 +16,8 @@ Here you can find my professional work experience.
 </u1>
 <br>
 
-<h3>Information Assurance Intern - NuHarbor Security - June 2023 - Present</h3>
+<h3>Information Assurance Intern - NuHarbor Security</h3>
+<h4>June 2023 - Present</h4>
 <u1>
     <li>Evaluated client incident response playbooks and examined process documentation to ensure effectiveness.</li>
     <li>Formulated incident response training materials designed to evaluate and refine process functionality.</li>
@@ -23,7 +25,8 @@ Here you can find my professional work experience.
     <li>Offered recommendations to enhance clients' security programs by leveraging industry-standard frameworks.</li>
 </u1>
 
-<h3>Digital Forensics Intern - Hexordia -October 2023 - Present</h3>
+<h3>Digital Forensics Intern - Hexordia</h3>
+<h4>October 2023 - Present</h4>
 <u1>
 
 <li>Conducted in-depth analysis of mobile device evidence retrieved from both Android and iOS operating systems.</li>
@@ -33,7 +36,8 @@ Here you can find my professional work experience.
 
 </u1>
 <h2>Previous Positions</h2>
-<h3>IoT Analyst - Leahy Center for Digital Forensics and Cyber Security September 2022 - May 2023 </h3>
+<h3>IoT Analyst - Leahy Center for Digital Forensics and Cyber Security</h3>
+<h4>September 2022 - May 2023</h4>
 <u1>
 <li>Conducted comprehensive research on diverse IoT devices to facilitate thorough analysis.</li>
 <li>Employed advanced techniques to exploit hardware and extract firmware for in-depth analysis.</li>
